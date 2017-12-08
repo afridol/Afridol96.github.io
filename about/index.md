@@ -6,7 +6,7 @@ date: 2017-03-21
 comments: false
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a></center>
+<center><a href="http://taylantatli.github.io/Moon"><b></b></a></center>
 
 {% capture images %}
     https://2.bp.blogspot.com/-zTBC1SDih6c/WM-rzUisrZI/AAAAAAAAGSs/1X3TfUbvsf4PRl3bzkrGEb2Mve0N-sdaQCLcB/s320/IMG_20161115_075547.jpg
