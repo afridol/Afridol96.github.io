@@ -5,7 +5,7 @@ description:        "Moon is a minimal, one column jekyll theme for your blog."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/profile.png'
-background-color:   'assets/img/sea_water_surface_118340_1920x1080.jpg'
+background-color:   'assets/img/water.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://harpinachmad.github.io/
@@ -48,7 +48,7 @@ instagram:          harpiachmad
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
-pinterest:          harpinachmad
+#pinterest:          harpinachmad
 #foursquare:        username
 #steam:             username
 #dribbble:          username
