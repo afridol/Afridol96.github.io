@@ -13,7 +13,6 @@ comments: false
 {% endcapture %}
 {% include gallery images=images caption="Screenshots of Moon Theme" cols=1 %}
 
-## Features
 Perkenalkan namaku Harpin, lahirku di Rengat 10 September 1996, rutinitasku sehari-hari sebagai seorang Mahasiswa biasa di sebuah Universitas yang mengedepankan ilmu keislaman. lebih tepatnya di Uin Suska Riau.
 
 Menjadi seorang Mahasiswa adalah tuntutan pendidikan yang harus dilewati. untuk mendapatkan sebuah pekerjaan yang mapan.
@@ -21,9 +20,5 @@ Menjadi seorang Mahasiswa adalah tuntutan pendidikan yang harus dilewati. untuk 
 Jurusan studiku Sistem Informasi Fakultas Sains & Teknologi. Sekarang lagi di semester Tiga.
 
 Hobi ku adalah Melukis, Membaca buku-buku Romantis. Mendengarkan lagu-lagu yang indah, dan tentunya Ngeblog juga menjadi Hobiku saat ini.
-
-## Getting Started
-
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
       
 [Github](https://github.com/harpinachmad){: .btn}
