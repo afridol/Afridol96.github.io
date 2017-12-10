@@ -15,6 +15,11 @@ comments: false
 
 Perkenalkan nama saya Achmad Harpin Asrori, bisa kalian panggil Harpin, Lahir di Rengat tanggal 10 September 1996, dan usia saat ini 21 tahun, seorang Mahasiswa Semester 7 Sistem Informasi Fakultas Sains dan Teknologi di Universitas Islam Negeri Sultan Syarif Kasim Riau. 
 
+Tugas Testing:
+Nama: Achmad Harpin Asrori
+NIM: 11453101803
+Testing dan Implementasi Sistem D
+
 
       
 [Github](https://github.com/harpinachmad){: .btn}
