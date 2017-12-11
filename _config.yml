@@ -1,6 +1,6 @@
 # Site
-title:              Achmad Harpin Asrori
-bio:                'Student Information System, fakulty Science and Technology, at State Islamic University of Sultan Syarif Kasim, NIM: 11453101803'
+title:              Afridol
+bio:                'Jurusan Sistem Informasi, fakultas Sains dan Teknologi, Universitas Islam Negeri Sultan Syarif Kasim, NIM: 11453101940'
 description:        "Moon is a minimal, one column jekyll theme for your blog."
 reading_time:       true
 words_per_minute:   200
@@ -8,7 +8,7 @@ logo:               'assets/img/profile.png'
 background:         'assets/img/water.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                https://harpinachmad.github.io/
+url:                https://afridol96.github.io/
 
 # Jekyll
 permalink:          /:title/
@@ -38,13 +38,13 @@ disqus_shortname:   taylantatli
   #ad-slot:
 #bing-verify:
 #email:
-twitter:            harpinachmad
-facebook:           Harpin Achmad
-github-url:         https://github.com/harpinachmad
+twitter:            idol_fl08
+facebook:           Afridol
+github-url:         afridol
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-linkedin:           achmadharpin
+linkedin:           in/afridol-afridol-735487155
 #xing:              username
-instagram:          @harpiachmad
+instagram:          afridol
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
